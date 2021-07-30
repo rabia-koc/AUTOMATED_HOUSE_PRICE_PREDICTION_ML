@@ -1,10 +1,14 @@
 # AUTOMATED HOUSE PRICE PREDICTION ML
 
-![property-investment](https://user-images.githubusercontent.com/73841520/127619871-30b972f8-b354-484e-ac4f-0c628ed6c0ab.jpg)
-![Housing 2-](https://user-images.githubusercontent.com/73841520/127619877-9e16c198-5ae7-44b5-a5f5-308fc07d76d8.jpg)
-![Increase-600x300](https://user-images.githubusercontent.com/73841520/127619884-f7471c40-0e72-4ab0-997e-66cd3e26b9e0.jpg)
+   ![Housing 2-](https://user-images.githubusercontent.com/73841520/127619877-9e16c198-5ae7-44b5-a5f5-308fc07d76d8.jpg)
 
-# Automated_House_Price_Prediction
+# İş Problemi
+* Her bir eve ait özelliklerin ve ev fiyatlarının bulunduğu veriseti kullanılarak, farklı tipteki evlerin fiyatlarına ilişkin bir makine öğrenmesi projesi gerçekleştirilmek istenmektedir.
+
+# Veri Seti Hikayesi
+* Ames, Lowa’daki konut evlerinden oluşan bu veriseti içerisinde 79 açıklayıcı değişken bulunduruyor.
+* Veri seti bir kaggle yarışmasına ait olduğundan dolayı train ve test olmak üzere iki farklı csv dosyası vardır.
+* Test veri setinde ev fiyatları boş bırakılmış olup, bu değerleri bizim tahmin etmemiz beklenmektedir.
 
 # DEĞİŞKENLER
 ## Kategorik Değişkenler:
