@@ -1,8 +1,13 @@
 # AUTOMATED HOUSE PRICE PREDICTION ML
 
+![property-investment](https://user-images.githubusercontent.com/73841520/127619871-30b972f8-b354-484e-ac4f-0c628ed6c0ab.jpg)
+![Housing 2-](https://user-images.githubusercontent.com/73841520/127619877-9e16c198-5ae7-44b5-a5f5-308fc07d76d8.jpg)
+![Increase-600x300](https://user-images.githubusercontent.com/73841520/127619884-f7471c40-0e72-4ab0-997e-66cd3e26b9e0.jpg)
+
+# Automated_House_Price_Prediction
 
 # DEĞİŞKENLER
-# cat_cols:
+## Kategorik Değişkenler:
 *  'MSZoning',         -Satışın genel imar sınıflandırmasını belirler.
 *  'Street',           -Mülke bağlı caddenin doğrusal ayakları (Grvl: Çakıl, Pave: Döşeli)
 *  'Alley',            -Mülke geçit erişimi türü (Grvl: Çakıl, Pave: Döşeli, NA: Geçit erişimi yok)
@@ -56,7 +61,7 @@
 *  'GarageCars',       -Araba kapasiteli garajın büyüklüğü
 *  'YrSold']           -Konutun satıldığı yıl
 
-# num_cols:
+## Numerik Değişkenler:
 *  'Id',
 *  'MSSubClass',       -satılacak konut türünü tanımlar (dublex ve aile için tek katlı vs..)
 *  'LotFrontage',      -mülke bağlı cadde sayısı
@@ -86,5 +91,5 @@
 *  'MoSold',           -konutun satıldığı ay
 *  'SalePrice']        -mülkün satış değeri (dolar)
 
-# cat_but_car
-* ['Neighborhood']
+# Kardinal Değişkenler:
+* 'Neighborhood'
